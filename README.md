@@ -1,7 +1,7 @@
 <!-- Banner or header image -->
-<p align="center">
+<!-- <p align="center">
   <img src="assets/banner.png" alt="Banner" />
-</p>
+</p> -->
 
 **Astrophysicist • Data Scientist**
 
@@ -20,7 +20,7 @@
 | Project | Description |
 |---|---|
 | [STOICS]([https://github.com/ruoyushang/AwesomeProject](https://github.com/ruoyushang/Singular-Templates-Of-Imaging-Cherenkov-Showers)) | Singular Templates of Imaging Cherenkov Showers is an analysis package for IACT gamma-ray data. The algorithm utilizes the distribution of cosmic-ray-like events to derive the estimation for background gamma-like events included in the source region. |
-| … | … |
+
 
 ---
 
