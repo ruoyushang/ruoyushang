@@ -7,14 +7,9 @@
 
 **Astrophysicist • Data Scientist**
 
-- 🔭 I’m working on: [Project X / research topic]  
-- 🌱 Learning: deep learning, time-series modeling, simulation  
-- 💬 Ask me about: data pipelines, reproducible research, astroinformatics  
-- 📫 How to reach me: [Email](mailto:your.email@example.com) • [LinkedIn](https://linkedin.com/in/yourprofile)
-
 ---
 
-## 🧰 Tools & Technologies
+## Languages
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  
@@ -22,12 +17,11 @@
 
 ---
 
-## 🔍 Featured Projects
+## Featured Projects
 
 | Project | Description |
 |---|---|
-| [AwesomeProject](https://github.com/ruoyushang/AwesomeProject) | A tool that does X using Y |
-| [AnotherRepo](https://github.com/ruoyushang/AnotherRepo) | Experiment in Z domain |
+| [STOICS]([https://github.com/ruoyushang/AwesomeProject](https://github.com/ruoyushang/Singular-Templates-Of-Imaging-Cherenkov-Showers)) | This is an analysis package for IACT gamma-ray data. The algorithm utilizes the distribution of cosmic-ray-like events to derive the estimation for background gamma-like events included in the source region. |
 | … | … |
 
 ---
